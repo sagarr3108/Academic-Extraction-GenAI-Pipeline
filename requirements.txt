@@ -1,0 +1,10 @@
+openai
+pandas
+scikit-learn
+openpyxl
+matplotlib
+google-generativeai
+requests
+python-dotenv
+anthropic
+cohere
